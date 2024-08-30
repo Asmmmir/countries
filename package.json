@@ -1,6 +1,5 @@
 {
   "name": "countries-react",
-  "homepage": "https://asmmmir.github.io/countries/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
